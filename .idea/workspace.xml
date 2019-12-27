@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16dc2bf6-146d-4910-ad0c-d612ac0fe206" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZVK8IqmSkeBfELDxEmvomgRZK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_3_UnitTestExample.py">
+    <configuration name="test_1_Search_Google" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCasses/test_1_Search_Google.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_2_Using_ChromeDriverManager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCasses/test_2_Using_ChromeDriverManager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_3_UnitTestExample.MyTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_3_UnitTestExample.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_3_UnitTestExample.MyTestCase.test_Google_Search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_3_UnitTestExample.MyTestCase.test_Google_Search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_3_UnitTestExample.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCasses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCasses/test_3_UnitTestExample.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_3_UnitTestExample.py" />
+        <item itemvalue="Python tests.Unittests for test_3_UnitTestExample.MyTestCase" />
+        <item itemvalue="Python tests.Unittests for test_3_UnitTestExample.MyTestCase.test_Google_Search" />
+        <item itemvalue="Python.test_2_Using_ChromeDriverManager" />
+        <item itemvalue="Python.test_1_Search_Google" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16dc2bf6-146d-4910-ad0c-d612ac0fe206" name="Default Changelist" comment="" />
+      <created>1577460538849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577460538849</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577461278844">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.707@0.23.1280.707" timestamp="1577461278844" />
+    <state width="1239" height="161" key="GridCell.Tab.0.bottom" timestamp="1577465253543">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1239" height="161" key="GridCell.Tab.0.bottom/0.23.1280.707@0.23.1280.707" timestamp="1577465253543" />
+    <state width="1239" height="161" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1577464780279" />
+    <state width="1239" height="161" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1577463096196" />
+    <state width="1239" height="161" key="GridCell.Tab.0.center" timestamp="1577465253542">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1239" height="161" key="GridCell.Tab.0.center/0.23.1280.707@0.23.1280.707" timestamp="1577465253542" />
+    <state width="1239" height="161" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1577464780278" />
+    <state width="1239" height="161" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1577463096195" />
+    <state width="1239" height="161" key="GridCell.Tab.0.left" timestamp="1577465253541">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1239" height="161" key="GridCell.Tab.0.left/0.23.1280.707@0.23.1280.707" timestamp="1577465253541" />
+    <state width="1239" height="161" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1577464780277" />
+    <state width="1239" height="161" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1577463096194" />
+    <state width="1239" height="161" key="GridCell.Tab.0.right" timestamp="1577465253543">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state width="1239" height="161" key="GridCell.Tab.0.right/0.23.1280.707@0.23.1280.707" timestamp="1577465253543" />
+    <state width="1239" height="161" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1577464780278" />
+    <state width="1239" height="161" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1577463096195" />
+    <state x="149" y="23" width="982" height="707" key="SettingsEditor" timestamp="1577461423977">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="149" y="23" width="982" height="707" key="SettingsEditor/0.23.1280.707@0.23.1280.707" timestamp="1577461423977" />
+    <state x="319" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1577460669509">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="319" y="209" key="com.intellij.ide.util.TipDialog/0.23.1280.707@0.23.1280.707" timestamp="1577460669509" />
+    <state x="389" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577464770784">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="389" y="53" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.709@0.23.1280.709" timestamp="1577464770784" />
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup" timestamp="1577462693322">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="305" y="56" width="670" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1577462693322" />
+  </component>
+</project>
